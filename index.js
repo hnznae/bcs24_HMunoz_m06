@@ -12,3 +12,6 @@ function budgetChecker(amount) {
 }
 
 budgetChecker(10000);
+budgetChecker(40000);
+budgetChecker(41000);
+budgetChecker("Not");
